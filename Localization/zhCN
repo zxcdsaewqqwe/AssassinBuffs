@@ -1,0 +1,28 @@
+{
+  "strings": {
+    "e3fa5a60-805c-4de6-a41a-34c1526c1e7f": {
+      "Offset": 0,
+      "Text": "{g|Encyclopedia:CareerAssassinGlossary}刺客{/g}能发现每个敌人在其某一侧的唯一{g|Encyclopedia:Opening}破绽{/g}。\n<i>破绽</i>：当刺客击中破绽时（不包括{g|Encyclopedia:OverpenetrationFullGlossary}过穿透{/g}），将额外造成<u>目标{g|Encyclopedia:MaxWounds}最大生命值{/g}的10%</u>伤害（上限<u>{uip|damagecap|74a1e39f3d0c4cab828d49d4acd54851}</u>）。\n攻击后，破绽会转移到敌人另一侧。刺客回合中未被击中的破绽，将在刺客下回合开始时随机转移到该敌人的某一侧。"
+    },
+    "c97efbaf-f732-414e-8334-edb83499b3bd": {
+      "Offset": 0,
+      "Text": "<u>(200 + 2 × {g|Encyclopedia:Lethality}致命性{/g})</u>"
+    },
+    "e0d16aa3-4835-4203-811d-18e0abfb8b0f": {
+      "Offset": 0,
+      "Text": "<u>({g|Encyclopedia:Lethality}致命性{/g} / 10)</u>"
+    },
+    "488c0baa-33ca-4395-8bcc-ddcdc1d4fc7e": {
+      "Offset": 0,
+      "Text": "刺客发动一次不占用{g|Encyclopedia:AttacksPerTurn}每回合攻击次数{/g}限制的攻击，但仅造成25%常规伤害。若攻击成功，目标将获得出血效果。\n<i>出血</i>：目标每回合开始时受到{uip|Lethality|33214b7215b442519f4303bcd4a8ab34}点无视护甲和偏转的{g|Encyclopedia:RendingDamage}撕裂伤害{/g}。"
+    },
+    "3565794d-6d35-4129-a7da-e0dbac613589": {
+      "Offset": 0,
+      "Text": "{g|Encyclopedia:CareerAssassinGlossary}刺客{/g}可在攻击后移动。"
+    },
+    "c277aa5a-ad9e-4439-bf19-a225362de711": {
+      "Offset": 0,
+      "Text": "打了就跑"
+    }
+  }
+}
